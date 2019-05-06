@@ -9,7 +9,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 @SuppressWarnings("unused")
 public class HomePage_Screen extends BaseClass {
 	
-	public static String primaryInfo  = "{\"user_id\":7,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"https://www.devrabbit.com/\",\"report_upload_url\":\"http://192.168.1.142:80/UploadReportFile\",\"project_name\":\"SQE_DEMO2\",\"project_description\":\"desc\",\"project_id\":274,\"module_name\":\"WEBModule\",\"module_description\":\"desc\",\"sub_module_id\":0,\"module_id\":422,\"testcase_name\":\"DevrabbitContactUs\",\"testcase_id\":457,\"testset_id\":0,\"executed_timestamp\":-1940760009,\"browser_type\":\"chrome\"}";
+	public static String primaryInfo  = "{\"user_id\":7,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"https://www.devrabbit.com/\",\"report_upload_url\":\"http://192.168.1.142:80/UploadReportFile\",\"project_name\":\"SQE_DEMO2\",\"project_description\":\"desc\",\"project_id\":274,\"module_name\":\"WEBModule\",\"module_description\":\"desc\",\"sub_module_id\":0,\"module_id\":422,\"testcase_name\":\"DevrabbitContactUs\",\"testcase_id\":457,\"testset_id\":0,\"executed_timestamp\":-1936044974,\"browser_type\":\"chrome\"}";
 
 	public static String projectName = "sqe_demo2";
 	public WebDriver driver;
